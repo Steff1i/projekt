@@ -1,6 +1,6 @@
-2D skákačka 
-vytvočit skákací pro jednoho hráče s cílem vyskákat upně nahoru
-unity, obtížnost ??? (uvidím jak to půjde)
+1) 2D skákačka 
+2) vytvočit skákací pro jednoho hráče s cílem vyskákat upně nahoru
+3) unity, obtížnost ??? (uvidím jak to půjde)
 
 
 
